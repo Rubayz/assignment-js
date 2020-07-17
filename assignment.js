@@ -17,4 +17,5 @@ function woodCalculator(chair, table, bed){
 
 function tinyFriend(friends){
     var friends = ['Jhankar', 'Mahbub', 'Moly', 'Sadia', 'Soumrik', 'Rumaisa', 'Mira'];
+    
 }
