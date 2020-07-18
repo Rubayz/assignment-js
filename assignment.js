@@ -5,17 +5,11 @@ function feetToMile(feet){
     return Mile;
 }
 
+var persons = [155, 298, 370];
 
-
-// Second Part of the assignment.
-
-function woodCalculator(chair, table, bed){
-    
-}
-
-// Last Part of the Assignment
-
-function tinyFriend(friends){
-    var friends = ['Jhankar', 'Mahbub', 'Moly', 'Sadia', 'Soumrik', 'Rumaisa', 'Mira'];
-    
-}
+var jhankarFeet = feetToMile(persons[0]);
+console.log(jhankarFeet);
+var faisalFeet = feetToMile(persons[1]);
+console.log(faisalFeet);
+var sobitaFeet = feetToMile(persons[2]);
+console.log(sobitaFeet);
