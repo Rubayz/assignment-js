@@ -30,3 +30,14 @@ var amounts = woodCalculator(14, 5, 12);
 console.log(amounts);
 
 // Third part of the assignment
+function brickCalculator(){
+
+}
+
+
+
+// Last Part of the assignment.
+function tinyFriend(tinyFriend){
+    var friends = ['Rafik', 'Karim', 'Salam', 'Borkot', 'Jabbar', 'Doly'];
+    
+}
